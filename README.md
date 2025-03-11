@@ -1,2 +1,2 @@
 # bookbot
-#1 Python Course
+#1 Python Bookbot Project
