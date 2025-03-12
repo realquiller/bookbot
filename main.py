@@ -20,8 +20,6 @@ def main():
     
     for char in sorted_char_list:
         print (f"{char['character']}: {char['count']}")
-
-   # print (sort_char_dictionary(char_list))
-
+        
 main()
 
