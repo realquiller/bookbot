@@ -1,0 +1,5 @@
+============ BOOKBOT ============
+Analyzing book found at $book_location...
+----------- Word Count ----------
+Found $get_number_of_words total words
+--------- Character Count -------
